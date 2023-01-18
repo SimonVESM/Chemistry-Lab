@@ -212,7 +212,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: a5c1fc2152dc90e4883247b04219f7bb, type: 2}
+      objectReference: {fileID: 2100000, guid: 6d3f96c7576bff949bd8df2c2b9a14d0, type: 2}
     - target: {fileID: 919132149155446097, guid: 7b70cc3c5998fd045a5de8f78c5665ed,
         type: 3}
       propertyPath: m_Name
@@ -608,6 +608,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Particle System
+      objectReference: {fileID: 0}
+    - target: {fileID: 5492764907905505063, guid: f316dea123e9e6047b4b9d4a8ae8618c,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f316dea123e9e6047b4b9d4a8ae8618c, type: 3}
